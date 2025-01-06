@@ -5,7 +5,7 @@ color 0A
 :MENU
 cls
 echo =================================================================
-echo    name BOT SETUP AND RUN SCRIPT by @MeoMunDep
+echo    Genesis BOT SETUP AND RUN SCRIPT by @MeoMunDep
 echo =================================================================
 echo.
 echo Current directory: %CD%
