@@ -1,1 +1,1 @@
-# Contribute before ask for anything :)
+print(f"STOP UPDATING THIS GAME, PLEASE CHOOSE ANOTHER SCRIPTS!`)
